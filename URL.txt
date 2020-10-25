@@ -1,1 +1,1 @@
-https://github.com/faizalsomani/cloudflare-2020-general-engineering-assignment.git
+ https://my-worker.faizal9somani.workers.dev
